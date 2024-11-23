@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on Astrophysics.
+- 🌱 I'm currently learning data analysis and visualization, signal processing, linux. 
+- 📫 Email: nakmorn@kaist.ac.kr
